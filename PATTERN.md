@@ -1,4 +1,4 @@
-# <PATTERN NAME>
+# PATTERN NAME
 
 
 ## Problem:
