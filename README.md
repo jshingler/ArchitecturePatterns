@@ -11,3 +11,19 @@ The reader is urged to understand the issue of Coupling and Cohesion.
 ### Data
 
 ### Application
+
+
+Inspiration:
+https://docs.microsoft.com/en-us/azure/architecture/patterns/
+
+http://www.cloudcomputingpatterns.org/resources/pattern_overview_A3.pdf
+
+http://www.cloudcomputingpatterns.org/cloud_computing_fundamentals/
+
+
+Custome Development:
+https://www.businessnewsdaily.com/5175-custom-software-development.html
+
+https://dzone.com/articles/custom-software-development-3
+
+
